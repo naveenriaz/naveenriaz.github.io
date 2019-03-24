@@ -4,7 +4,7 @@ A Portfolio of Projects created by Naveen Riaz
 
 ## Preview
 
-<!-- [![SB Admin 2 Preview](https://startbootstrap.com/assets/img/screenshots/themes/sb-admin-2.png)](https://blackrockdigital.github.io/startbootstrap-sb-admin-2/) -->
+<!-- [![Portfolio Preview](https://startbootstrap.com/assets/img/screenshots/themes/sb-admin-2.png)](https://blackrockdigital.github.io/startbootstrap-sb-admin-2/) -->
 
 **[Launch Live Preview](https://naveenriaz.github.io/)**
 
