@@ -1,6 +1,6 @@
 {
     "title": "Portfolio",
-    "name": "Naveen Riaz",
+    "name": "NaveenRiaz",
     "version": "4.0.2",
     "scripts": {
         "start": "gulp watch"
